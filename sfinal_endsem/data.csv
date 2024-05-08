@@ -1,0 +1,24 @@
+company,body-style,wheelbase,length,hp,avg-mileage, price
+jaguar,sedan,113,119.6,176,15,32250
+jaguar,sedan,113,119.6,176,15,35550
+jaguar,sedan,102,191.7,262,13,36000
+mazda,hatchback,93.1,159.1,68,30,5195
+mazda,hatchback,93.1,159.1,68,31,6095
+mazda,hatchback,93.1,159.1,68,31,6795
+mazda,hatchback,95.3,169,101,17,11845
+mazda,sedan,104.9,175,72,31,18344
+mercedes-benz,sedan,110,190.9,123,22,25552
+mercedes-benz,wagon,110,190.9,123,22,28248
+mercedes-benz,sedan,120.9,208.1,184,14,40960
+mercedes-benz,hardtop,112,199.2,184,14,45400
+mitsubishi,hatchback,93.7,157.3,68,37,5389
+mitsubishi,hatchback,93.7,157.3,68,31,6189
+mitsubishi,sedan,96.3,172.4,88,25,6989
+mitsubishi,sedan,93.3,165.3,88,25,8189
+nissan,sedan,94.5,165.3,55,45,7099
+nissan,sedan,94.45,170.2,69,31,6649
+nissan,sedan,100.4,184.6,69,31,7349
+nissan,wagon,89.5,168.9,69,31,13499
+porsche,sedan,89.5,186.9,152,19,34028
+porsche,convertible,94.5,175.7,207,17,37028
+porsche,hatchback,98.4,175.7,207,17,
